@@ -27,6 +27,7 @@ header >h1{
     font-size: 45px;
     padding: 15px 20px;
     font-family: Asap, sans-serif;
+    position: relative;
 }
 
 .badge{
@@ -34,4 +35,22 @@ header >h1{
     color: white;
     font-size: 14px;
     padding: 2px 10px;
+    font-family: Asap, sans-serif;
+}
+
+#user-label{
+    position: absolute;
+    top: 30px;
+    left: -25px;
+}
+
+#computer-label{
+    position: absolute;
+    top: 30px;
+    right: -30px;
+}
+
+.result {
+    font-size: 40px;
+    color: white;
 }
