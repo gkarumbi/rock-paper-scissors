@@ -11,19 +11,7 @@ header{
     padding: 20px;
    
 }
-.green-glow{
-    border: #4dcc7d;
-    box-shadow: 0 0 10px #31b43a  ;
-}
-.red-glow{
-    border: #fc121d;
-    box-shadow: 0 0 10px #d01115  ;
-}
 
-.gray-glow{
-    border: #464647;
-    box-shadow: 0 0 10px #25292b  ;
-}
 header >h1{
     color: #24272E;    
     text-align: center;
@@ -99,5 +87,19 @@ header >h1{
     font-weight: bold;
     font-size: 20px;
     margin-top: 20px;
+}
+
+.green-glow{
+    border: #4dcc7d;
+    box-shadow: 0 0 10px #31b43a  ;
+}
+.red-glow{
+    border: #fc121d;
+    box-shadow: 0 0 10px #d01115  ;
+}
+
+.gray-glow{
+    border: #464647;
+    box-shadow: 0 0 10px #25292b  ;
 }
 
